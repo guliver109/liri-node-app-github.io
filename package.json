@@ -1,0 +1,29 @@
+{
+  "name": "liri-node-app-github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guliver109/liri-node-app-github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guliver109/liri-node-app-github.io/issues"
+  },
+  "homepage": "https://github.com/guliver109/liri-node-app-github.io#readme",
+  "dependencies": {
+    "bandsintown": "^1.0.1",
+    "dotenv": "^6.0.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.0",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "omdb-api-pt": "^2.0.1"
+  }
+}
